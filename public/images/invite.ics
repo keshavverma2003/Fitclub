@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:GMT+5:30
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20241210T180000
+DTEND;TZID=Asia/Kolkata:20241210T183000
+DTSTAMP:20241210T121207Z
+ORGANIZER;CN=Chandan Vilas Bhosale:mailto:chandan.b@infojiniconsulting.com
+UID:09r3n3ui8panuucurep9gv3lfu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=keshavsoftwareengineer@gmail.com;X-NUM-GUESTS=0:mailto:keshavsoftwa
+ reengineer@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/pgy-rasd-ajw
+X-MICROSOFT-CDO-OWNERAPPTID:-577331565
+CREATED:20241210T121205Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/pg
+ y-rasd-ajw\nOr dial: (US) +1 720-526-2497 PIN: 306110866#\nMore phone numbe
+ rs: https://tel.meet/pgy-rasd-ajw?pin=1145434460367&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20241210T121206Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Infojini Inc : Test briefing call
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
